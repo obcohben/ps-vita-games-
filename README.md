@@ -26,7 +26,7 @@ you will also need a have auto plugin install on the vita and i have a guide on 
 * you will also need a unpacker we will be using pkg2zip. 
 
 <br>
-* you can download them both from my git hub or if ypu have git install on your pc you can just open git bash and type this command - git clone https://github.com/obcohben/vita-games-download.git
+* you can download them both from my git hub or if ypu have git install on your pc you can just open git bash and type this command - git clone https://github.com/obcohben/ps-vita-games-.git
 <br>
 
 ## set up:
